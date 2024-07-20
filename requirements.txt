@@ -1,0 +1,11 @@
+# Precip dependencies 
+netCDF4        # for nc4 files
+asf_search
+pygmt
+scipy
+geopandas
+argparse
+numpy
+matplotlib
+paramiko
+fuzzywuzzy
