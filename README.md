@@ -10,6 +10,7 @@ Information on volcanoes is retrieved from [Global Volcanism Program](https://vo
 cd $HOME
 mkdir -p $HOME/code/Precip
 git clone git@github.com:geodesymiami/Precip.git $HOME/code/Precip
+
 ```
 
 - Set environment variables (temp):
